@@ -9,6 +9,7 @@ Funcionalidades
 •	Seção de participação para novos associados
 •	Contatos e redes sociais
 •	Menu responsivo para dispositivos móveis
+
 Estrutura de Pastas
 /
 ├── css/
@@ -17,7 +18,9 @@ Estrutura de Pastas
 │   ├── logo.png
 └── README.md
 ├── index.html
+
 # Como rodar o projeto
+
 1.	Clone o repositório:
 git clone https://github.com/eleitorbrasileiro/anelb.git
 2.	Acesse a pasta do projeto:
@@ -30,8 +33,11 @@ Contribuições são bem-vindas! Para contribuir:
 3.	Commit suas alterações (git commit -am 'Minha nova feature')
 4.	Faça push para a branch (git push origin minha-feature)
 5.	Abra um Pull Request
+   
 Licença
 MIT (adicione o arquivo de licença, se desejar)
+
 Contato
+
 •	Email: eleitorbrasileiro1988@gmail.com
 •	@anelboficial (adicione o link real da rede social)
