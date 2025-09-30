@@ -6,7 +6,7 @@ Site oficial da Associação Nacional dos Eleitores Brasileiros (ANELB)
 A ANELB é uma associação que visa congregar eleitores em torno de uma agenda comum de reconstrução da democracia, desenvolvimento e moralidade pública no Brasil.
 O projeto deste repositório é o site institucional da ANELB, desenvolvido em HTML, CSS e JavaScript puros, com foco em acessibilidade e responsividade.
 
-Funcionalidades:
+# Funcionalidades:
 
 •	Página inicial institucional com informações sobre a associação
 •	Agenda da maioria do povo brasileiro
@@ -14,7 +14,7 @@ Funcionalidades:
 •	Contatos e redes sociais
 •	Menu responsivo para dispositivos móveis
 
-Estrutura de Pastas:
+# Estrutura de Pastas:
 
 /
 ├── css/
@@ -32,21 +32,21 @@ git clone https://github.com/eleitorbrasileiro/anelb.git
 cd aneb-site
 3.	Abra o arquivo index.html no navegador de sua preferência.
    
-Contribuição:
+# Contribuição:
 
-Contribuições são bem-vindas! 
+Contribuições são bem-vindas! Para contribuir:
 
-Para contribuir:
 1.	Faça um fork do projeto
 2.	Crie uma branch para sua feature/correção (git checkout -b minha-feature)
 3.	Commit suas alterações (git commit -am 'Minha nova feature')
 4.	Faça push para a branch (git push origin minha-feature)
 5.	Abra um Pull Request
    
-Licença
+# Licença:
+
 MIT (adicione o arquivo de licença, se desejar)
 
-Contato
+# Contato: 
 
 •	Email: eleitorbrasileiro1988@gmail.com
 •	@anelboficial (https://www.instagram.com/anelboficial/)
